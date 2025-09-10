@@ -1,2 +1,1 @@
-Testing purpose of teamcity
-the changes for testing 
+the testing purpose 
